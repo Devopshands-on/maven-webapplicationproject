@@ -34,11 +34,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
-		Martha Halli, Banglore,
-		Bangalore,
-		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		Sriharsha DEVOPS, 
+		Ongole,
+		A.P,
+		+91-9666477987
+		Sriharshathumuluri2@gmail.com
 		<br>
 		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
 	</span>
