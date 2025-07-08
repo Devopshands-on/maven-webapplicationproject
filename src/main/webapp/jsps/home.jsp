@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to sriharsha DevOps</h1>
+<h1 align="center">Welcome to sriharsha DDevOps</h1>
 <h1 align="center">Sriharsha Devops</h1>
 <hr>
 <br>
